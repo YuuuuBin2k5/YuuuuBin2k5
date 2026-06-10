@@ -1,78 +1,192 @@
-<h1 align="center">Hello 💕Welcom to YuuuuBin profile</h1>
-
-###
+# 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+
+![Profile Views](https://komarev.com/ghpvc/?username=YuuuuBin2k5&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/YuuuuBin2k5?style=social)](https://github.com/YuuuuBin2k5)
+
 </div>
 
-###
+## 💻 About Me
 
-<br clear="both">
+I'm a passionate **Full-Stack Developer** and **Mobile App Developer** from Vietnam, currently studying at **UTE (University of Technical Education TP.HCM)**.
+
+- 🎓 **Education**: Computer Science Student at UTE
+- 💼 **Focus**: Full-Stack Development, Mobile Applications
+- 🌐 **Languages**: TypeScript, JavaScript, Java, Python, C++, Dart
+- 🏢 **Interests**: Web Development, Mobile Apps, AI, Algorithms
+
+## 🌟 Featured Projects
+
+### 📍 MAPIC - Location Sharing App
+A mobile application for sharing locations and experiences with friends
+- **Tech**: TypeScript, React Native, Firebase
+- **Features**: Real-time location sharing, experience posts, social feed
+- **Status**: Active Development ✅
+- **Repository**: [MAPIC_APP](https://github.com/YuuuuBin2k5/MAPIC_APP)
+
+### 🏢 KTX Khu B - Community Platform
+Platform for connecting students in dormitory community
+- **Tech**: TypeScript, React, Node.js, MongoDB
+- **Features**: Community feed, events, resources management
+- **Status**: Completed ✅
+- **Repository**: [KTX_KHU_B-DoAnCNTT](https://github.com/YuuuuBin2k5/KTX_KHU_B-DoAnCNTT)
+
+### 🛍️ Shop YuuuBin - E-Commerce Platform
+Full-stack e-commerce solution with modern UI and secure payments
+- **Tech**: TypeScript, React, Node.js, MongoDB, Stripe
+- **Features**: Product catalog, shopping cart, payments, orders
+- **Status**: Active Development ✅
+- **Repositories**: 
+  - [Backend](https://github.com/YuuuuBin2k5/shop-yuuubin-backend)
+  - [Frontend](https://github.com/YuuuuBin2k5/shop-yuuubin-frontend)
+
+### 🎨 GitHub Profile README Generator
+A tool to create beautiful GitHub profile READMEs easily
+- **Tech**: TypeScript, React, Tailwind CSS
+- **Features**: Drag-drop builder, live preview, markdown export
+- **Status**: Active Development ✅
+- **Repository**: [profile-readme-generator](https://github.com/YuuuuBin2k5/profile-readme-generator)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React%20Native-blue?style=flat-square&logo=react)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
+
+---
+
+## 📚 Learning & Practice
+
+### Competitive Programming
+- **Algorithm Repository**: [Algorithm](https://github.com/YuuuuBin2k5/Algorithm)
+- **Focus**: Data Structures, Sorting, Graphs, Dynamic Programming
+- **Topics**: 🔤 C++, 📊 Algorithms, 🎯 Data Structures
+
+### Java Learning
+- **Repository**: [Learning-Java](https://github.com/YuuuuBin2k5/Learning-Java)
+- **Content**: OOP, Collections, Streams, File I/O
+
+### Python Projects
+- **Repositories**:
+  - [Todolist](https://github.com/YuuuuBin2k5/Todolist) - Python project management
+  - [MazePaint](https://github.com/YuuuuBin2k5/MazePaint) - Maze generator
+  - [TriTueNhanTao_UTE](https://github.com/YuuuuBin2k5/TriTueNhanTao_UTE) - AI Learning
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuuuuBin2k5&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuuuuBin2k5&theme=tokyonight&layout=compact&hide_border=true)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎯 Current Goals
 
-<img align="right" height="280" src="https://avatars.githubusercontent.com/u/174427114?s=400&u=313f6e346985323e2cb706a3d5d5d80acefc569a&v=4"  />
+- 🚀 Master Full-Stack Web Development
+- 📱 Build more mobile applications with Flutter
+- 🤖 Learn Machine Learning & AI
+- 🌍 Contribute to Open Source
+- 💼 Find internship/job opportunities
 
-###
+---
+
+## 💡 Recent Achievements
+
+- ✅ Completed capstone projects
+- ✅ Built multiple full-stack applications
+- ✅ Created 30+ repositories
+- ✅ Active in coding community
+- ✅ Learning new technologies continuously
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
-  <img src="https://count.getloli.com/@:YuuuuBin2k5?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YuuuuBin2k5)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:daonguyennhatanh0910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=website)](https://github.com/YuuuuBin2k5)
+
 </div>
 
-###
+---
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/YuuuuBin2k5/MAPIC_APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuuuuBin2k5&repo=MAPIC_APP&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YuuuuBin2k5/KTX_KHU_B-DoAnCNTT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuuuuBin2k5&repo=KTX_KHU_B-DoAnCNTT&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YuuuuBin2k5/profile-readme-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuuuuBin2k5&repo=profile-readme-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YuuuuBin2k5/shop-yuuubin-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuuuuBin2k5&repo=shop-yuuubin-backend&theme=tokyonight" />
+</a>
+
+---
+
+## 🎓 Education & Certifications
+
+- 📚 **Currently Studying**: Computer Science at UTE
+- 🏆 **Projects Completed**: 5+ major capstone projects
+- 💻 **Courses**: Full-Stack Development, Mobile Development, Algorithms
+
+---
+
+## 💬 Let's Work Together!
+
+I'm always interested in:
+- 🤝 Collaboration on interesting projects
+- 📚 Learning from the community
+- 🚀 Building amazing applications
+- 💡 Discussing tech & development
+
+Feel free to reach out! 📧
+
+---
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31iejefkmd6uyh7gjijtrrjsylyi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iejefkmd6uyh7gjijtrrjsylyi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+
+### ⭐ If you like my work, please consider giving my repositories a star! ⭐
+
+Made with ❤️ by **YuuuuBin2k5**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YuuuuBin2k5.YuuuuBin2k5)
+
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YuuuuBin2k5/YuuuuBin2k5/main/public/assets/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YuuuuBin2k5/YuuuuBin2k5/main/public/assets/pacman.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/YuuuuBin2k5/YuuuuBin2k5/main/public/assets/pacman.svg">
-</picture>
-
-
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
